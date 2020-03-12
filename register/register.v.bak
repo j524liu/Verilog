@@ -1,2 +1,0 @@
-
-module register(out, data, load, clk, rst_);
